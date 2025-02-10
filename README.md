@@ -30,7 +30,8 @@
 1.  **Open the App** – Load `index.html` in your browser. 🌐 
 2. **Search for a Song** – Enter a song title or artist in the search bar. 🔍
 3. **Play Music** – Click the play button to enjoy seamless streaming! ▶️🎶
-4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️ 
+4. **Control Playback** – Use pause, next, and volume controls for a better experience. 🎛️
+5. **Enjoy** – Listen, vibe, and share your favorite tunes! 🎧🎵 
    
 
 ---
