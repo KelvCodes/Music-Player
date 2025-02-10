@@ -7,7 +7,7 @@
 
 ## 🌟 Features  
 -  **🎵 Fetch Songs via API** – Stream any song dynamically using an API. 
-- **🎨 Stylish UI** – Simple, modern, and responsive design 
+-**🎛️ Intuitive Controls** – Play, pause, skip, and adjust volume easily. 
 - **⚡ Instant Load** – Click a button, get a meme—super fast! 
 - **📱 Fully Responsive** – Works smoothly on all devices.  
 
