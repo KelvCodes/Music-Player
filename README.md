@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 How to Use 
-1.  **Open the App** – Load `index.html` in your browser. 🌐  
+1.  **Open the App** – Load `index.html` in your browser. 🌐 
 2.  **Click the Button** – Generate a random meme instantly. 🖱
 3.  **Enjoy** – Laugh, screenshot, and share! 😂 
    
