@@ -9,7 +9,8 @@
 -  **🎵 Fetch Songs via API** – Stream any song dynamically using an API. 
 - **🎛️ Intuitive Controls** – Play, pause, skip, and adjust volume easily. 
 - **🎨 Sleek UI** – A stylish and responsive design.  
-- **📱 Mobile Friendly** – Works smoothly on all devices. 
+- **📱 Mobile Friendly** – Works smoothly on all devices.
+- **⚡ Instant Load** – Fast and optimized for a seamless experience. 
 
       
 
