@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 Features  
-- **🤣 Random Memes** – Fetches memes from an API for endless laughs.
+-  **🎵 Fetch Songs via API** – Stream any song dynamically using an API. 
 - **🎨 Stylish UI** – Simple, modern, and responsive design 
 - **⚡ Instant Load** – Click a button, get a meme—super fast! 
 - **📱 Fully Responsive** – Works smoothly on all devices.  
