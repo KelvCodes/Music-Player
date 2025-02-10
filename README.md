@@ -1,4 +1,4 @@
-# 😂 Meme Generator 🚀
+
 
  Welcome to the **Meme Generator** project! 🎉  
 A fun and interactive web app built with **HTML, CSS, and JavaScript**, utilizing an API to fetch and display random memes with a single click. Generate hilarious memes effortlessly! 🎭  
