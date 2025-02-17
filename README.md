@@ -12,7 +12,7 @@
 - **📱 Mobile Friendly** – Works smoothly on all devices.
 - **⚡ Instant Load** – Fast and optimized for a seamless experience. 
 
-      
+---      
 
 ---
 
