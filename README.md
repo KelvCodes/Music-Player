@@ -13,7 +13,9 @@
 - **⚡ Instant Load** – Fast and optimized for a seamless experience. 
 
 ---      
+## 🎬 Live Demo 
 
+🔗 **[Try It Now](https://ai-powered-lost-and-found.netlify.app/)**  
 ---
 
 ## ⚙ 🛠 Tech Stack
